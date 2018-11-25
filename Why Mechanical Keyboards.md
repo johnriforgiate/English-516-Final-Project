@@ -9,6 +9,7 @@ While the price of membrane keyboards often cannot be beat (they usually are fre
 
 ### Satisfying Key-presses ####
 Membrane keyboards do not offer feedback when they are used. Compared to the slight mush of a membrane keyboard, mechanical keyboards either add the feedback of a reassuring click or remove any feedback at all and just keep a linear progression that removes the mushy feeling of a membrane.
+
 ![Mechanical Switches](images/WikipediaMechSwitches.jpg)
 
 ### Customizability ####
