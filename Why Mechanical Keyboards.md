@@ -9,6 +9,7 @@ While the price of membrane keyboards often cannot be beat (they usually are fre
 
 ### Satisfying Key-presses ####
 Membrane keyboards do not offer feedback when they are used. Compared to the slight mush of a membrane keyboard, mechanical keyboards either add the feedback of a reassuring click or remove any feedback at all and just keep a linear progression that removes the mushy feeling of a membrane.
+![Mechanical Switches](images/WikipediaMechSwitches.jpg)
 
 ### Customizability ####
 Mechanical keyboards add a level of customizability that membrane keyboards are unable to achieve. Most switches are made with the same Cherry MX style, which means that most keyboards are able to use keycaps from any mechanical keyboard or any set that is made for MX style switches. This allows users to chooses from a variety of different colors and shapes to fit their specific style. Additionally, Mechanical keyboards have many different types of switches that are good choices depending on the user's typing style.
