@@ -1,0 +1,14 @@
+Q1: What is your project about?
+I want to build a guide that helps people decide what parts they want for their keyboard and build it.
+
+Q2: Who is your audience?
+I want to present it to people who are interested in keyboards but may not yet have the skills/knowledge to build one.
+While this is not intended to be a guide for people who know nothing at all about computers 
+
+Q3: What is your purpose?
+I want to build a guide that helps newcomers become a part of the community and learn about basic computer science/computer engineering skills.
+
+Q4: What do you see yourself doing?
+I think it will be kind of a wiki type website with a bunch of separated articles about specific topics.
+
+
