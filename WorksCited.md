@@ -23,6 +23,9 @@ u/dittani. “r/MechanicalKeyboards - Parts to Complete Your Gherkin, and Some P
 
 ## Images used throughout the page ##
 [Cherry MX -- opened, 2.jpg](https://en.wikipedia.org/wiki/File:Cherry_MX_--_opened,_2.jpg)
+
 https://commons.wikimedia.org/wiki/File:Mechanical_Logitech_keyboard.jpg
+
 https://commons.wikimedia.org/wiki/File:IBM_Model_M_Space_Saving_Keyboard.png
+
 https://commons.wikimedia.org/wiki/File:Apple_Macintosh_Plus_Keyboard.jpg
