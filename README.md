@@ -10,7 +10,7 @@ The first half of the guide talks about various topics that are often brought up
 
 The second half is a practical guide to building a small 30-key keyboard.
 - [Materials](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Materials.md)
-- Attatching diodes/small parts
-- Socketing the ProMicro
-- Attaching switches
-- Flashing the Firmware
+- [Attatching diodes/small parts](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/AttachingDiodes.md)
+- [Socketing the ProMicro](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Socketing.md)
+- [Attaching switches](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/AttachingSwitches.md)
+- [Flashing the Firmware](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/FlashingFirmware.md)
