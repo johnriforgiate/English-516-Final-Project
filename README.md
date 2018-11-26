@@ -9,8 +9,7 @@ The first half of the guide talks about various topics that are often brought up
 - [Understanding Keyboard Sizes](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Keyboard%20Size%20Types.md)
 
 The second half is a practical guide to building a small 30-key keyboard.
-- Materials
-- Soldering
+- [Materials](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Materials.md)
 - Attatching diodes/small parts
 - Socketing the ProMicro
 - Attaching switches
