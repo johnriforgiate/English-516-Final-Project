@@ -16,5 +16,5 @@ The second half is a practical guide to building a small 30-key keyboard.
 - [Flashing the Firmware](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/FlashingFirmware.md)
 
 Finally a Works-Cited page
-- Works Cited
+- [Works Cited](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/WorksCited.md)
 

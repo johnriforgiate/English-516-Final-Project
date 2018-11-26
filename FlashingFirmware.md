@@ -10,5 +10,5 @@ When I flashed my firmware it looked something like this.
 ![Flashing Pins](images/Flashing-BeforeConnect.png)
 ![Flashing Pins](images/Flashing-AfterConnect.png)
 
-[Previous: Attaching switches](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/AttachingSwitches.md)
+[Previous: Attaching switches](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/AttachingSwitches.md) | [Next: Works Cited](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/WorksCited.md)
 -----
