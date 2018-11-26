@@ -1,4 +1,4 @@
-##Articles about document design ##
+## Articles about document design ##
 Bigoni, M., and D. Dragone. “Effective and Efficient Experimental Instructions.” Science Direct, www-sciencedirect-com.er.lib.k-state.edu/science/article/pii/S0165176512003825.
 Economics Letters, November 2012, Vol.117(2), pp.460-463
 
