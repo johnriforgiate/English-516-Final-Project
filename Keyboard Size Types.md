@@ -19,4 +19,5 @@ How small can we go? This is a keyboard that takes the idea of a small keyboard 
 
 While there are smaller keyboards, they are often made for specialized use and I will not cover them here.
 
-[Previous: Choosing the Right Switch](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Switch%20Comparison.md) | [Next: Build Guid - Materials](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Materials.md)
+[Previous: Choosing the Right Switch](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Switch%20Comparison.md) | [Next: Build Guide - Materials](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Materials.md)
+-----

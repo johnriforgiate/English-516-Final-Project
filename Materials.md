@@ -57,5 +57,6 @@ To build the Gherkin keyboard you will need the following materials:
 
 - Some kind of computer with USB ports and the ability to install programs
   - You need to be able to write the software of the keyboard onto it.
+
 [Previous: Understanding Keyboard Sizes](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Keyboard%20Size%20Types.md) | [Next: Attatching diodes/small parts](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/AttachingDiodes.md) 
 -----

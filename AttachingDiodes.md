@@ -15,3 +15,4 @@ Save the clippings for a later step.
 ![Clipped Diodes](images/Photos/10-ExtraClippings.jpg)
 
 [Previous: Materials](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Materials.md) | [Next: Socketing the ProMicro](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Socketing.md)  
+-----
