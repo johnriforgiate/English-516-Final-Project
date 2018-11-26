@@ -14,4 +14,3 @@ The second half is a practical guide to building a small 30-key keyboard.
 - Socketing the ProMicro
 - Attaching switches
 - Flashing the Firmware
-- Customization
