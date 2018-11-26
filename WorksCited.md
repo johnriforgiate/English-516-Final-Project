@@ -21,3 +21,8 @@ Kb. “40% Keyboards.” Gherkin Assembly, www.40percent.club/2016/12/gherkin-as
 
 u/dittani. “r/MechanicalKeyboards - Parts to Complete Your Gherkin, and Some Places to Get Them.” Reddit, www.reddit.com/r/MechanicalKeyboards/comments/63o5u6/parts_to_complete_your_gherkin_and_some_places_to/. 
 
+## Images used throughout the page ##
+[Cherry MX -- opened, 2.jpg](https://en.wikipedia.org/wiki/File:Cherry_MX_--_opened,_2.jpg)
+https://commons.wikimedia.org/wiki/File:Mechanical_Logitech_keyboard.jpg
+https://commons.wikimedia.org/wiki/File:IBM_Model_M_Space_Saving_Keyboard.png
+https://commons.wikimedia.org/wiki/File:Apple_Macintosh_Plus_Keyboard.jpg
