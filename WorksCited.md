@@ -1,3 +1,4 @@
+##Articles about document design ##
 Bigoni, M., and D. Dragone. “Effective and Efficient Experimental Instructions.” Science Direct, www-sciencedirect-com.er.lib.k-state.edu/science/article/pii/S0165176512003825.
 Economics Letters, November 2012, Vol.117(2), pp.460-463
 
@@ -11,6 +12,7 @@ Bush, Jonathan, and Leah A. Zuidema. “Beyond Language: The Grammar of Document
 
 Agrawala, M., Phan, D., Heiser, J., Haymaker, J., Klingner, J., Hanrahan, P., & Tversky, B. (2003). Designing effective step-by-step assembly instructions. ACM SIGGRAPH 2003 Papers on - SIGGRAPH 03. doi:10.1145/1201775.882352
 
+## Articles used to build the keyboard ##
 Matt3o. “BrownFox Step by Step • Deskthority.” Deskthority, deskthority.net/workshop-f7/brownfox-step-by-step-t6050.html. 
 
 “Building a 30 Key Keyboard · Hackerific.” Hackerific, 8 Oct. 2017, hackerific.net/2017/10/08/building-a-30-key-keyboard/. 
