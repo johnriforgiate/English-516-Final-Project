@@ -20,3 +20,4 @@ Mechanical keyboards add a level of customizability that membrane keyboards are 
 While those that do not use computers that often may not appreciate the benefits of using a mechanical keyboard, writers, coders and gamers often swear by mechanical keyboards. If you are someone who occasionally has to type for more than even 30 minutes at a time, I would recommend a mechanical keyboard to you.
 
 [Previous: Table of Contents](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Switch%20Comparison.md) | [Next: Choosing the Right Switch](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Switch%20Comparison.md)
+------------
