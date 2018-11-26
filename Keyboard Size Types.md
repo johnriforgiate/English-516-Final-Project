@@ -18,3 +18,5 @@ As the name states, this keyboard has 40% of the keys when compared to the Full-
 How small can we go? This is a keyboard that takes the idea of a small keyboard to the limit, supporting only the letter keys and 4 others. This is the easiest one to build as it is so small, but it is difficult to reccomend it to new users because it actually changes the way that one types much more significantly as there need to be many more layer and row emulation keys to retain the same functionality that a regular keyboard does. It makes a great game controller for games with few buttons, but I would not reccomend it for typing or use in general.
 
 While there are smaller keyboards, they are often made for specialized use and I will not cover them here.
+
+[Previous: Choosing the Right Switch](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Switch%20Comparison.md) | [Next: Build Guid - Materials](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Materials.md)

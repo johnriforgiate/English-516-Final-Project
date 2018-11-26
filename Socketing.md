@@ -27,7 +27,5 @@ You can then pull the Pro Micro from the board and admire your handiwork.
 Finally, clip the long hanging ends of the leads off so they no longer hang out.
 ![Soldered Leads Clipped](images/Photos/20-SolderedLeadsClipped.jpg)
 
-
-
-
-
+[Previous: Attatching diodes/small parts](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/AttachingDiodes.md) | [Next: Attaching switches](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/AttachingSwitches.md)   
+-----

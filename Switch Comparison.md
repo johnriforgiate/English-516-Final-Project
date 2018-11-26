@@ -34,5 +34,8 @@ Many of the imitation brands such as Gateron and Outemu provide a very comparabl
 #### Other Switches ####
 Other mechanical and mechanical like switches such as Alps and Topre exist, but I would not reccomend them to someone who is getting their first mechanical keyboard because the options to customise them are much more limited and they often cost much more then MX Cherry style switches.
 
+[Previous: Why Mechanical Keyboards](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Why%20Mechanical%20Keyboards.md) | [Next: Understanding Keyboard Sizes](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Keyboard%20Size%20Types.md)
+------
+
 https://wiki.installgentoo.com/index.php/Mechanical_keyboards
 - was referenced for switch actuation forces

@@ -11,3 +11,5 @@ Insert your Pro Micro and get ready to flash your firmware.
 The easiest way to flash the firmware is to attatch wires to these two test points.
 ![Pro Micro Inserted](images/Photos/24-ProMicroInserted.jpg)
 
+[Previous: Socketing the ProMicro](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/Socketing.md) | [Next: Flashing the Firmware](https://github.com/johnriforgiate/English-516-Final-Project/blob/master/FlashingFirmware.md) 
+-----
